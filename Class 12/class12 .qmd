@@ -1,0 +1,69 @@
+---
+title: "Class 12 Lab Session"
+author: "Irene Hsieh"
+format: pdf
+---
+
+# Section 1. proportion og G/G in a population
+
+Downloaded a CSv file from Ensemble, Here we read this CSV file
+
+```{r}
+mxl <- read.csv("373531-SampleGenotypes-Homo_sapiens_Variation_Sample_rs8067378.csv")
+head(mxl)
+```
+
+```{r}
+table(mxl$Genotype..forward.strand.)
+```
+
+
+```{r}
+table(mxl$Genotype..forward.strand.)/ nrow(mxl)*100
+```
+
+Now let's look at a different population. I picked GBR 
+
+```{r}
+gbr <- read.csv("373522-SampleGenotypes-Homo_sapiens_Variation_Sample_rs8067378.csv")
+head(gbr)
+```
+
+Find proportion of GG
+```{r}
+round(table(gbr$Genotype..forward.strand.)/ nrow(gbr)*100,2 )
+```
+
+This variant that is associated with childhood asthma is more frequent in the GBR population than the MKL population
+
+Lets now dig into this further. 
+
+
+
+## Section 4
+> How many samples do we have?
+
+```{r}
+expr <- read.table("rs8067378_ENSG00000172057.6")
+head(expr)
+```
+
+```{r}
+nrow(expr)
+```
+
+```{r}
+table(expr$geno)
+```
+
+```{r}
+library(ggplot2)
+```
+
+Lets make a boxplot 
+```{r}
+ggplot(expr) +aes(geno,exp, fill=geno)+
+  geom_boxplot(notch=TRUE)
+```
+
+
