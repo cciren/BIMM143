@@ -10,7 +10,7 @@ Class work from W24 for [BIMM143 at UC San Diego](https://bioboot.github.io/bimm
 
 - Class 12 [Genome informatics](https://github.com/cciren/BIMM143/blob/main/Class%2012/class12-.pdf).
 
-- Class 4 [Bioinformatics data analysis with R]()
+- Class 4 [Bioinformatics data analysis with R](https://github.com/cciren/BIMM143/blob/main/class%2004/class4.pdf).
 
 
 
