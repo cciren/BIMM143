@@ -1,0 +1,1 @@
+ssh -i "BIMM143_Irene.pem" ubuntu@ec2-35-81-168-26.us-west-2.compute.amazonaws.com

@@ -1,0 +1,16 @@
+  pwd:print working 
+ ls: list content 
+ CD: Change Directory
+ MkDIr: Class16
+  RM: Remote file
+  Nano: My_Text_Notes.txt
+  Less: Pager program
+
+Instance ID: i-0ef6ff552070e1c28 (BIMM143_irene)
+
+Public IP address:
+44.234.58.255
+Run this command, if necessary, to ensure your key is not publicly viewable.
+ chmod 400 "BIMM143_Irene.pem"
+Connect to your instance using its Public DNS:
+ ec2-44-234-58-255.us-west-2.compute.amazonaws.com

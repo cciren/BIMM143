@@ -1,0 +1,36 @@
+---
+title: "Class 16"
+author: "Irene Hsieh"
+format: pdf
+---
+
+```{r}
+# Read the TSV file, variable taken from the first row
+data <- read.delim("mm-second.x.zebrafish.tsv", header = TRUE)
+
+# Set column names
+colnames(data) <- c("qseqid", "sseqid", "pident", "length", "mismatch", "gapopen", 
+"qstart", "qend", "sstart", 
+"send", "evalue", "bitscore")
+
+```
+
+```{r}
+# Make histogram of bitscore values
+hist(data$bitscore, breaks = 50, main = "Histogram of bitscore values")
+
+```
+
+```{r}
+library(ggplot2)
+ggplot(data, aes(pident, bitscore)) + geom_point(alpha=0.1) 
+
+```
+
+
+```{r}
+ggplot(data, aes((data$pident * 
+(data$qend - data$qstart)), bitscore)) + 
+  geom_point(alpha=0.1) + geom_smooth()
+```
+

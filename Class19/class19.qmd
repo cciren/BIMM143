@@ -1,0 +1,33 @@
+---
+title: "Class 19"
+author: "Irene Hsieh (A16197563)"
+format: html
+---
+
+
+```{r}
+library(bio3d)
+```
+
+```{r}
+s <- read.fasta(file = "A16197563_mutant_seq.fa")
+```
+
+```{r}
+s$id
+```
+
+Score residue conservation 
+
+```{r}
+pos <- which(conserv(s) < 1)
+```
+```{r}
+paste( s$ali[1,pos], pos, s$ali[2,pos], sep="")
+```
+
+```{r}
+wt_healthy
+
+```
+

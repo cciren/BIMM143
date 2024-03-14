@@ -1,0 +1,9 @@
+ pwd:print working 
+ ls: list content 
+ CD: Change Directory
+ MkDIr: Class16
+  RM: Remote file
+  Nano: My_Text_Notes.txt
+  Less: Pager program
+
+
