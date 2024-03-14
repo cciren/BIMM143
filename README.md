@@ -7,4 +7,12 @@ Class work from W24 for [BIMM143 at UC San Diego](https://bioboot.github.io/bimm
 
 - Class 6 [R functions and packages ]().
 
+<<<<<<< HEAD
 - 
+=======
+- Class 12 [Genome informatics](https://github.com/cciren/BIMM143/blob/main/Class%2012/class12-.pdf).
+
+
+
+  
+>>>>>>> 403f0b59c2518a4145613a4b87fe261832c6e5fa
