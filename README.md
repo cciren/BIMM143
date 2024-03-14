@@ -7,4 +7,6 @@ Class work from W24 for [BIMM143 at UC San Diego](https://bioboot.github.io/bimm
 
 - Class 6 [R functions and packages ](https://github.com/cciren/BIMM143/blob/main/Class06/Class06.pdf).
 
+
+
   
