@@ -4,17 +4,17 @@ Class work from W24 for [BIMM143 at UC San Diego](https://bioboot.github.io/bimm
 ## Contents 
 - Class 4 [Bioinformatics data analysis with R](https://github.com/cciren/BIMM143/blob/main/class%2004/class4.pdf).
 
-- Class 5[Data exploration and visualization in R]
+- Class 5[Data exploration and visualization in R](https://github.com/cciren/BIMM143/blob/main/class05/class05.pdf)
 
 - Class 6 [R functions and packages ](https://github.com/cciren/BIMM143/blob/main/Class06/Class06.pdf).
 
-- Class 7[Introduction to machine learning for Bioinformatics]
+- Class 7[Introduction to machine learning for Bioinformatics](https://github.com/cciren/BIMM143/blob/main/class-07.pdf)
 
-- Class 8[Unsupervised Learning Mini-Project]
+- Class 8[Unsupervised Learning Mini-Project](https://github.com/cciren/BIMM143/blob/main/class08/class08.pdf)
 
-- Class 9[Halloween Candy Mini-Project]
+- Class 9[Halloween Candy Mini-Project](https://github.com/cciren/BIMM143/blob/main/Class%209%20-%202/6/class-09--feb-.pdf)
 
-- Class 10[Structural Bioinformatics (pt1)]
+- Class 10[Structural Bioinformatics (pt1)](https://github.com/cciren/BIMM143/blob/main/Class%2010/Class10.pdf)
  
 - Class 11 [Structural Bioinformatics (pt2. Focus on new AlphaFold2)](https://github.com/cciren/BIMM143/blob/main/Class%2011/Class-11.pdf).
 
@@ -22,7 +22,7 @@ Class work from W24 for [BIMM143 at UC San Diego](https://bioboot.github.io/bimm
 
 - Class 13[Transcriptomics and the analysis of RNA-Seq data]
 
-- Class 14[RNA-Seq analysis mini-project]
+- Class 14[RNA-Seq analysis mini-project](https://github.com/cciren/BIMM143/blob/main/Class%2014/class-14-.pdf)
 
 - Class 16[Essential UNIX for bioinformatics]
 
