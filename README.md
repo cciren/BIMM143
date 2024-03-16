@@ -32,7 +32,7 @@ Class work from W24 for [BIMM143 at UC San Diego](https://bioboot.github.io/bimm
 
 - Class 19[Mini Project: Cancer Mutation Analysis](https://github.com/cciren/BIMM143/blob/main/lab19%20pdff.pdf)
 
-- Project[Find a Gene Assignment]
+- Project[Find a Gene Assignment](https://github.com/cciren/BIMM143/blob/main/Project%20%231%20updated.pdf)
 
 
 
