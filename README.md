@@ -20,17 +20,17 @@ Class work from W24 for [BIMM143 at UC San Diego](https://bioboot.github.io/bimm
 
 - Class 12 [Genome informatics](https://github.com/cciren/BIMM143/blob/main/Class%2012/class12-.pdf).
 
-- Class 13[Transcriptomics and the analysis of RNA-Seq data]
+- Class 13[Transcriptomics and the analysis of RNA-Seq data](https://github.com/cciren/BIMM143/blob/main/Class%2013/Class-13.pdf)
 
 - Class 14[RNA-Seq analysis mini-project](https://github.com/cciren/BIMM143/blob/main/Class%2014/class-14-.pdf)
 
-- Class 16[Essential UNIX for bioinformatics]
+- Class 16[Essential UNIX for bioinformatics](https://github.com/cciren/BIMM143/blob/main/class16/class16.pdf)
 
-- Class 17[Analyzing sequencing data in the cloud]
+- Class 17[Analyzing sequencing data in the cloud](https://github.com/cciren/BIMM143/blob/main/class17/Class-17.pdf)
 
-- Class 18[Mini Project: Investigating Pertussis Resurgence]
+- Class 18[Mini Project: Investigating Pertussis Resurgence](https://github.com/cciren/BIMM143/blob/main/Class%2018/class-18.pdf)
 
-- Class 19[Mini Project: Cancer Mutation Analysis]
+- Class 19[Mini Project: Cancer Mutation Analysis](https://github.com/cciren/BIMM143/blob/main/lab19%20pdff.pdf)
 
 - Project[Find a Gene Assignment]
 
